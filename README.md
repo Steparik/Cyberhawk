@@ -11,6 +11,3 @@ Ok 15 min is off
 6) Add this file to Amazone AWS for 1 Euro and install LAMP for him and share link 
 
 7) Add php file to github and share link to you ok !!!!!
-
-Im real need work !!!!
-
